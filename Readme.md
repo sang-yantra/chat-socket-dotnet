@@ -1,14 +1,14 @@
 ### A console application for chat server
 
-This is a console app that implements a chat server whih emits radom binary data every 5 sec
+This is a console app that implements a chat server which emits random binary data every 5 sec
 response in json
 ```
 { username: "", message: "" }
 ```
 
-## Clone, buildand run the application
+## Clone, build and run the application
 
-## Connect with this web socket
+## How to connect this web socket
 
 1. Open a blank chrome tab
 2. Open conole tab

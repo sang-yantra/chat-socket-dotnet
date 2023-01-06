@@ -2,7 +2,9 @@
 
 This is a console app that implements a chat server whih emits radom binary data every 5 sec
 response in json
-	{ username: "", message: "" }
+```
+{ username: "", message: "" }
+```
 
 ## Clone, buildand run the application
 
